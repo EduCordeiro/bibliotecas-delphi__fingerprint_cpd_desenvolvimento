@@ -1,0 +1,351 @@
+COMMIT: 5
+Versão: 1.0.4
+Versão da Biblioteca Funções Bancárias: 1.0.2
+Data: 12/09/2011
+Alterações:
+  1- Adicionado as funções dos bancos: Santander, Itau e Banco do Brasil.
+
+
+COMMIT: 4
+Versão: 1.0.3
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 03/06/2011
+Alterações:
+  1- Adicionado função para preencher com espaço a esquerda.
+
+---
+
+COMMIT: 3
+Versão: 1.0.2
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.5
+Data: 03/06/2011
+Alterações:
+  1- Correção de Bug na função FloatToInt_ArredondarParaMaiorInteiro.
+
+---
+
+COMMIT: 2
+Versão: 1.0.1
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.5
+Data: 03/06/2011
+Alterações:
+  1- Alterações nas funções que tratam arquivos, passam a utilizar a biblioteca de classes fingerprint.
+
+---
+
+COMMIT: 1
+Versão: 1.0
+Versão da Biblioteca de CLASSES Fingerprint: N/A
+Data: 03/06/2011
+Alterações:
+  1- Versão inicial oficial da biblioteca.
+=======
+---
+
+COMMIT: 4
+Versão: 1.0.3
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 03/06/2011
+Alterações:
+  1- Correção de bug na função que executa scripts SQL.
+
+---
+
+COMMIT: 3
+Versão: 1.0.2
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 03/06/2011
+Alterações:
+  1- Adicionada função para tratamento de caracteres especiais para inserção em banco.
+
+---
+
+COMMIT: 2
+Versão: 1.0.1
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.5
+Data: 03/06/2011
+Alterações:
+  1- Alterações nas funções que tratam arquivos, passam a utilizar a biblioteca de classes fingerprint.
+
+---
+
+COMMIT: 1
+Versão: 1.0
+Versão da Biblioteca de CLASSES Fingerprint: N/A
+Data: 03/06/2011
+Alterações:
+  1- Versão inicial oficial da biblioteca.
+>>>>>>> origin/master
+=======
+=======
+>>>>>>> origin/master
+=======
+--
+
+COMMIT: 19
+Versão: 1.1.8
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.12
+Data: 05/08/2011
+Alterações:
+  1 - Adicionada enumeração "EModosExecucaoProgramas". 
+
+--
+
+COMMIT: 18
+Versão: 1.1.7
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.12
+Data: 26/07/2011
+Alterações:
+  1 - Adicionadas funções para tratar caracter nulo (#0) antes do fim de um arquivo.
+
+--
+
+COMMIT: 17
+Versão: 1.1.6
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 22/07/2011
+Alterações:
+  1 - Adicionada função que mostra o tamanho que uma stringlist está ocupando em memória.
+
+--
+
+COMMIT: 16
+Versão: 1.1.5
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 18/07/2011
+Alterações:
+  1 - Correção de bug de compilação na função GetIP().
+
+--
+
+COMMIT: 15
+Versão: 1.1.4
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 18/07/2011
+Alterações:
+  1 - Adicionada função para obter o IP da máquina.
+
+--
+
+COMMIT: 14
+Versão: 1.1.3
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 15/07/2011
+Alterações:
+  1 - Adicionada função para inserir o conteúdo de uma stringlist dentro de outra, em uma posição especificada.
+
+--
+
+COMMIT: 22
+Versão: 1.1.11
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.15
+Data: 17/08/2011
+Alterações:
+  1 - Versão final da função GetTermo..FAST (usando PChar, muito mais rápida
+      do que a função GetTermo.. "normal").
+
+--
+
+COMMIT: 21
+Versão: 1.1.10
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.14
+Data: 15/08/2011
+Alterações:
+  1 - Adicionado parâmetros na função gravar arquivos em disco (com valor default para 
+      manter compatibilidade com códigos antigos). Isto é para que não seja forçado o 
+	  fim de linha #13#10 sempre.
+
+--
+
+COMMIT: 20
+Versão: 1.1.9
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.12
+Data: 10/08/2011
+Alterações:
+  1 - Adicionada função "GetTermoFromString_FAST". 
+
+--
+
+COMMIT: 19
+Versão: 1.1.8
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.12
+Data: 05/08/2011
+Alterações:
+  1 - Adicionada enumeração "EModosExecucaoProgramas". 
+
+--
+
+COMMIT: 18
+Versão: 1.1.7
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.12
+Data: 26/07/2011
+Alterações:
+  1 - Adicionadas funções para tratar caracter nulo (#0) antes do fim de um arquivo.
+
+--
+
+COMMIT: 17
+Versão: 1.1.6
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 22/07/2011
+Alterações:
+  1 - Adicionada função que mostra o tamanho que uma stringlist está ocupando em memória.
+
+--
+
+COMMIT: 16
+Versão: 1.1.5
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 18/07/2011
+Alterações:
+  1 - Correção de bug de compilação na função GetIP().
+
+--
+
+COMMIT: 15
+Versão: 1.1.4
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 18/07/2011
+Alterações:
+  1 - Adicionada função para obter o IP da máquina.
+
+--
+
+COMMIT: 14
+Versão: 1.1.3
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 15/07/2011
+Alterações:
+  1 - Adicionada função para inserir o conteúdo de uma stringlist dentro de outra, em uma posição especificada.
+
+--
+
+COMMIT: 13
+Versão: 1.1.2
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 06/07/2011
+Alterações:
+  1 - Adicionada função para truncar valores float de acordo com o número de casas decimais
+      desejadas.
+
+--
+
+COMMIT: 12
+Versão: 1.1.0
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 06/07/2011
+Alterações:
+  1 - Adicionado na uses a chamada ClassRegularExpression.
+
+---
+
+COMMIT: 11
+Versão: 1.0.10
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 04/07/2011
+Alterações:
+  1- Adicionadas novas funções.
+  2- AjustaStr - Essa função fixar a string com um número de espaços informado.
+     Ex: AjustaStr('eduardo', 10)
+         imput:  [eduardo]
+         output: [eduardo   ]
+  
+---
+
+COMMIT: 10
+Versão: 1.0.9
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 04/07/2011
+Alterações:
+  1- Adicionadas novas funções.
+  2- Padronizado cabeçalho de algumas funções que inseri anteriormente mas não tinham cabeçalho.
+  
+>>>>>>> origin/master
+---
+
+COMMIT: 9
+Versão: 1.0.8
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 22/06/2011
+Alterações:
+  1- Adicionadas novas funções.
+
+---
+
+COMMIT: 8
+Versão: 1.0.7
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 22/06/2011
+Alterações:
+  1- Parâmetro opcional na função "GetTermoFromString", para melhorar o desempenho.;
+
+---
+
+COMMIT: 7
+Versão: 1.0.6
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 10/06/2011
+Alterações:
+  1- Correção de bug na função "ZEOS_ExecutarQuery".
+
+---
+
+COMMIT: 6
+Versão: 1.0.5
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 10/06/2011
+Alterações:
+  1- Novas funções em "ufuncoes".
+
+---
+
+COMMIT: 5
+Versão: 1.0.4
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 09/06/2011
+Alterações:
+  1- Melhorias na execução de código SQL.
+  
+---
+
+COMMIT: 4
+Versão: 1.0.3
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 03/06/2011
+Alterações:
+  1- Correção de bug na função que executa scripts SQL.
+
+---
+
+COMMIT: 3
+Versão: 1.0.2
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.6
+Data: 03/06/2011
+Alterações:
+  1- Adicionada função para tratamento de caracteres especiais para inserção em banco.
+
+---
+
+COMMIT: 2
+Versão: 1.0.1
+Versão da Biblioteca de CLASSES Fingerprint: 1.0.5
+Data: 03/06/2011
+Alterações:
+  1- Alterações nas funções que tratam arquivos, passam a utilizar a biblioteca de classes fingerprint.
+
+---
+
+COMMIT: 1
+Versão: 1.0
+Versão da Biblioteca de CLASSES Fingerprint: N/A
+Data: 03/06/2011
+Alterações:
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> origin/master
+
+=======
+>>>>>>> origin/master
+  1- Versão inicial oficial da biblioteca.
